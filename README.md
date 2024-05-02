@@ -54,7 +54,6 @@ pip install -r requirements.txt
 python3 manage.py migrate
 ```
 
-
 ### Документация
 
 Документация API доступна по адресу: `http://127.0.0.1:8000/redoc/`
